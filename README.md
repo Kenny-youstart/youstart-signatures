@@ -1,2 +1,0 @@
-# youstart-signatures
-Signatures Gmail
